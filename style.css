@@ -1,0 +1,40 @@
+#top{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+.image{
+    width: 400px;
+    
+}
+
+.list{
+    font-size: 20px;
+    
+}
+
+.list:active{
+    color: brown;
+}
+
+.list li a{
+    color:gray;
+
+}
+
+.list li a:active{
+    color: blueviolet;
+}
+
+.list li a:hover{
+    color: blue;
+}
+
+.list li a:enabled{
+    color: gray;
+}
+
+.list li a:link{
+    color: darkblue;
+}
+
